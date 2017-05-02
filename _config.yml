@@ -8,7 +8,7 @@
 # Site settings
 title: Tableland Garden and Mowing
 email: your-email@domain.com
-description: > # Reliable and affordable lawn mowing and gardening services in the Atherton Tableland and Cairns area.
+description: "Reliable and affordable lawn mowing and gardening services in the Atherton Tableland and Cairns area."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
